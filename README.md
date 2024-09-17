@@ -4,9 +4,9 @@
 
 - Hello, in this project I shared my knowledge about object-oriented programming. [ObjectOrientedProgramming](https://github.com/semihbenerr/ObjectOrientedProgramming)
 
-- Hello, in this project I shared my knowledge about design principles. [DesignPrinciples](https://github.com/semihbenerr/DesignPrinciples)
+- In this project I shared my knowledge about design principles. [DesignPrinciples](https://github.com/semihbenerr/DesignPrinciples)
 
-- Hello, I developed a blog site in this project. [ProgrammersBlog](https://github.com/semihbenerr/ProgrammersBlog)
+- I developed a blog site in this project. [ProgrammersBlog](https://github.com/semihbenerr/ProgrammersBlog)
 
 - 🌱 I’m currently learning **"Microservice", "MongoDb" and "Dapper" in my project called "EShopper" that I am developing.**
 
