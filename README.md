@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏻,I'm Semih,</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
-- Hello, in this project I shared my knowledge about object-oriented programming. [ObjectOrientedProgramming](https://github.com/semihbenerr/ObjectOrientedProgramming)
+- In this project I shared my knowledge about object-oriented programming. [ObjectOrientedProgramming](https://github.com/semihbenerr/ObjectOrientedProgramming)
 
 - In this project I shared my knowledge about design principles. [DesignPrinciples](https://github.com/semihbenerr/DesignPrinciples)
 
