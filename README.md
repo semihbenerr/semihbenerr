@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihbenerr&show_icons=true&locale=en" alt="semihbenerr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihbenerr&" alt="semihbenerr" /></p>
