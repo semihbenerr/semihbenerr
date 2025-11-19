@@ -1,34 +1,28 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--AUkHSeP---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/sandeepkumar17/td-dev.to/di-collection-posts/assets/blog-cover/c-sharp.png)
+![MasterHead](https://github.com/semihbenerr/semihbenerr/blob/main/banner.png)
 
-# 👋🏻 Merhaba, ben Semih
-### Backend Developer
 
----
+# Hi 👋🏻, I'm Semih
 
-## Projelerim
-
-- **Nesne Yönelimli Programlama Bilgilerim:** [ObjectOrientedProgramming](https://github.com/semihbenerr/ObjectOrientedProgramming)
-- **Tasarım Prensipleri Bilgilerim:** [DesignPrinciples](https://github.com/semihbenerr/DesignPrinciples)
-- **Blog Sitesi:** [ProgrammersBlog](https://github.com/semihbenerr/ProgrammersBlog)
+### I'm a backend developer.
 
 ---
 
-## Şu anda Öğrendiklerim
-
-🌱 "Microservice", "MongoDb" ve "Dapper" konularında kendimi geliştiriyorum.  
-Geliştirdiğim proje: **EShopper**
-
----
-
-## Bana Ulaşın
-
-- 📫 Mail: **benersemih2434@gmail.com**
-- [LinkedIn](https://linkedin.com/in/semihbener)
-- [Instagram](https://instagram.com/semih.bener)
+- In this project I shared my knowledge about object-oriented programming: [ObjectOrientedProgramming](https://github.com/semihbenerr/ObjectOrientedProgramming)
+- In this project I shared my knowledge about design principles: [DesignPrinciples](https://github.com/semihbenerr/DesignPrinciples)
+- I developed a blog site in this project: [ProgrammersBlog](https://github.com/semihbenerr/ProgrammersBlog)
+- 🌱 I'm currently learning **Microservice**, **MongoDb**, and **Dapper** in my project called **EShopper** that I am developing.
+- 📫 How to reach me: **benersemih2434@gmail.com**
 
 ---
 
-## Kullandığım Diller ve Araçlar
+## Connect with me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/semihbener)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/semih.bener)
+
+---
+
+## Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -48,11 +42,9 @@ Geliştirdiğim proje: **EShopper**
 
 ---
 
-## İstatistiklerim
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semihbenerr&show_icons=true&locale=en&layout=compact" alt="semihbenerr" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semihbenerr&show_icons=true&locale=en" alt="semihbenerr" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semihbenerr&show_icons=true&locale=en&layout=compact" alt="semihbenerr" />
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihbenerr&show_icons=true&locale=en" alt="semihbenerr" />
+
