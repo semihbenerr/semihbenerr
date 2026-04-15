@@ -1,16 +1,20 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--AUkHSeP---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/sandeepkumar17/td-dev.to/di-collection-posts/assets/blog-cover/c-sharp.png)
-<h1 align="center">Hi 👋🏻,I'm Semih,</h1>
-<h3 align="center">I'm a backend developer.</h3>
+<h1 align="center">Hi 👋🏻, I'm Semih!</h1>
+<h3 align="center">I'm a Backend Developer 🚀</h3>
 
-- In this project I shared my knowledge about object-oriented programming. [ObjectOrientedProgramming](https://github.com/semihbenerr/ObjectOrientedProgramming)
+<br/>
 
-- In this project I shared my knowledge about design principles. [DesignPrinciples](https://github.com/semihbenerr/DesignPrinciples)
+- 🧠 I shared my knowledge about object-oriented programming. [ObjectOrientedProgramming](https://github.com/semihbenerr/ObjectOrientedProgramming)
 
-- I developed a blog site in this project. [ProgrammersBlog](https://github.com/semihbenerr/ProgrammersBlog)
+- 📐 I shared my knowledge about design principles. [DesignPrinciples](https://github.com/semihbenerr/DesignPrinciples)
 
-- 🌱 I’m currently learning **"Microservice", "MongoDb" and "Dapper" in my project called "EShopper" that I am developing.**
+- 📝 I developed a blog site. [ProgrammersBlog](https://github.com/semihbenerr/ProgrammersBlog)
 
-- 📫 How to reach me **benersemih2434@gmail.com**
+- 🛒 I'm building a microservice-based e-commerce project. [EShopper](https://github.com/semihbenerr/EShopper)
+
+- 🌱 I'm currently learning **Microservices, MongoDB and Dapper.**
+
+- 📫 How to reach me: **benersemih2434@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semihbenerr&show_icons=true&locale=en&layout=compact" alt="semihbenerr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihbenerr&show_icons=true&locale=en" alt="semihbenerr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihbenerr" alt="semihbenerr" /></p>
