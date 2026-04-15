@@ -1,26 +1,70 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--AUkHSeP---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/sandeepkumar17/td-dev.to/di-collection-posts/assets/blog-cover/c-sharp.png)
-<h1 align="center">Hi 👋🏻,I'm Semih,</h1>
-<h3 align="center">I'm a backend developer.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7c3aed&height=200&section=header&text=Semih%20Bener&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=22" />
+</div>
 
-- In this project I shared my knowledge about object-oriented programming. [ObjectOrientedProgramming](https://github.com/semihbenerr/ObjectOrientedProgramming)
+<h1 align="center">👋 Merhaba, Ben Semih!</h1>
 
-- In this project I shared my knowledge about design principles. [DesignPrinciples](https://github.com/semihbenerr/DesignPrinciples)
-
-- I developed a blog site in this project. [ProgrammersBlog](https://github.com/semihbenerr/ProgrammersBlog)
-
-- 🌱 I’m currently learning **"Microservice", "MongoDb" and "Dapper" in my project called "EShopper" that I am developing.**
-
-- 📫 How to reach me **benersemih2434@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/semihbener" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semihbener" height="30" width="40" /></a>
-<a href="https://instagram.com/semih.bener" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semih.bener" height="30" width="40" /></a>
+<p align="center">
+  <em>Yazılım dünyasında temiz kod ve sağlam mimariler peşinde koşan bir backend geliştirici.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/semihbener" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/semih.bener" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:benersemih2434@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semihbenerr&show_icons=true&locale=en&layout=compact" alt="semihbenerr" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihbenerr&show_icons=true&locale=en" alt="semihbenerr" /></p>
+## 🚀 Hakkımda
+
+- 💼 **Backend Developer** — .NET ekosistemi ve C# ile çalışıyorum
+- 🏗️ **Mikroservis mimarileri**, **Domain-Driven Design** ve **Clean Architecture** ilgi alanlarım
+- 🌱 Şu an **Microservices**, **MongoDB** ve **Dapper** konularını **EShopper** projesinde öğreniyorum
+- 🎯 Hedefim: Ölçeklenebilir, sürdürülebilir ve test edilebilir sistemler inşa etmek
+- 📫 Ulaşmak için: **benersemih2434@gmail.com**
+
+---
+
+## 🛠️ Teknoloji Yığınım
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,html,css,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postgres,postman,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Öne Çıkan Projelerim
+
+| Proje | Açıklama |
+|-------|----------|
+| 🛒 [**EShopper**](https://github.com/semihbenerr/EShopper) | Mikroservis mimarisi ile geliştirilen e-ticaret uygulaması (devam ediyor) |
+| 📝 [**ProgrammersBlog**](https://github.com/semihbenerr/ProgrammersBlog) | ASP.NET Core ile geliştirilmiş blog sitesi |
+| 🧩 [**ObjectOrientedProgramming**](https://github.com/semihbenerr/ObjectOrientedProgramming) | Nesne yönelimli programlama kavramları ve örnekleri |
+| 📐 [**DesignPrinciples**](https://github.com/semihbenerr/DesignPrinciples) | SOLID ve diğer tasarım prensipleri hakkında bilgiler |
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=semihbenerr&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semihbenerr&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&locale=en" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semihbenerr&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:4f46e5&height=100&section=footer" />
+</div>
