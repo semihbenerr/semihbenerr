@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=220&section=header&text=Semih%20Bener&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Backend%20Developer&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=220&section=header&text=Semih%20Bener&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%7C%20Backend%20Developer&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" />
 </div>
 
 <div align="center">
@@ -93,7 +93,7 @@ odak: Flutter, Dart, C#, .NET, SQL
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=semihbenerr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=semihbenerr&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
