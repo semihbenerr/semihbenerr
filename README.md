@@ -18,9 +18,6 @@
   <a href="mailto:benersemih2434@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://urssoft.com/">
-    <img src="https://img.shields.io/badge/UrsSoft-0d1117?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
 </div>
 
 <br/>
@@ -30,7 +27,6 @@
 ```yaml
 ad: Semih Bener
 konum: Türkiye 🇹🇷
-şirket: UrsSoft
 rol: Mobile & Backend Developer
 odak: Flutter, Dart, C#, .NET, SQL
 ```
@@ -40,7 +36,6 @@ odak: Flutter, Dart, C#, .NET, SQL
 - 📱 **Flutter & Dart** ile cross-platform mobil uygulamalar geliştiriyorum
 - ⚙️ **C# / .NET** ekosisteminde backend çözümleri üretiyorum
 - 🗄️ **MSSQL, MySQL, MongoDB** ile veritabanı tasarımı ve yönetimi yapıyorum
-- 🏢 **[@UrsSoft](https://github.com/UrsSoft)** bünyesinde çalışıyorum
 - 🌱 Sürekli yeni teknolojiler öğrenmeye devam ediyorum
 - 💬 Benimle iletişime geçmekten çekinmeyin!
 
