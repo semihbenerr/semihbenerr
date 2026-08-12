@@ -18,9 +18,6 @@
   <a href="mailto:benersemih2434@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://urssoft.com/">
-    <img src="https://img.shields.io/badge/UrsSoft-0d1117?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
   <a href="https://semihbener.com">
     <img src="https://img.shields.io/badge/Website-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -33,7 +30,6 @@
 ```yaml
 ad: Semih Bener
 konum: Türkiye 🇹🇷
-şirket: UrsSoft
 rol: Mobile & Backend Developer
 odak: Flutter, Dart, C#, .NET, SQL
 ```
@@ -43,7 +39,6 @@ odak: Flutter, Dart, C#, .NET, SQL
 - 📱 **Flutter & Dart** ile cross-platform mobil uygulamalar geliştiriyorum
 - ⚙️ **C# / .NET** ekosisteminde backend çözümleri üretiyorum
 - 🗄️ **MSSQL, MySQL, MongoDB** ile veritabanı tasarımı ve yönetimi yapıyorum
-- 🏢 **[@UrsSoft](https://github.com/UrsSoft)** bünyesinde çalışıyorum
 - 🌱 Sürekli yeni teknolojiler öğrenmeye devam ediyorum
 - 🌐 Web sitem: **[semihbener.com](https://semihbener.com)**
 - 💬 Benimle iletişime geçmekten çekinmeyin!
@@ -73,31 +68,10 @@ odak: Flutter, Dart, C#, .NET, SQL
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semihbenerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihbenerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&langs_count=8" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=semihbenerr&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
-</div>
-
-<br/>
+## 📊 Aktivite Grafiği
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=semihbenerr&bg_color=0d1117&color=00c6ff&line=1a73e8&point=00c6ff&area=true&area_color=1a73e8&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=semihbenerr&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
