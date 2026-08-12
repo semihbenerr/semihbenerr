@@ -18,6 +18,12 @@
   <a href="mailto:benersemih2434@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://urssoft.com/">
+    <img src="https://img.shields.io/badge/UrsSoft-0d1117?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://semihbener.com">
+    <img src="https://img.shields.io/badge/Website-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -27,6 +33,7 @@
 ```yaml
 ad: Semih Bener
 konum: Türkiye 🇹🇷
+şirket: UrsSoft
 rol: Mobile & Backend Developer
 odak: Flutter, Dart, C#, .NET, SQL
 ```
@@ -36,7 +43,9 @@ odak: Flutter, Dart, C#, .NET, SQL
 - 📱 **Flutter & Dart** ile cross-platform mobil uygulamalar geliştiriyorum
 - ⚙️ **C# / .NET** ekosisteminde backend çözümleri üretiyorum
 - 🗄️ **MSSQL, MySQL, MongoDB** ile veritabanı tasarımı ve yönetimi yapıyorum
+- 🏢 **[@UrsSoft](https://github.com/UrsSoft)** bünyesinde çalışıyorum
 - 🌱 Sürekli yeni teknolojiler öğrenmeye devam ediyorum
+- 🌐 Web sitem: **[semihbener.com](https://semihbener.com)**
 - 💬 Benimle iletişime geçmekten çekinmeyin!
 
 <br clear="both"/>
@@ -74,7 +83,7 @@ odak: Flutter, Dart, C#, .NET, SQL
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semihbenerr&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
+  <img src="https://streak-stats.demolab.com/?user=semihbenerr&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
 </div>
 
 <br/>
